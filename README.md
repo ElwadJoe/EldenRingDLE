@@ -2,7 +2,7 @@
 EldenRingDLE is a Wordle-inspired guessing game tailored for fans of Elden Ring. Inspired by the mechanics of "Loldle," this project challenges players to identify characters, bosses, or items based on specific attributes and daily hints.
 
 ## Core Features
-Daily Challenge Mode: A new mystery subject every 24 hours.
+Daily Challenge Mode: A new mystery character every 24 hours. (does not work since there is no implementation with a real-time clock)
 
 Attribute Feedback: Clues change color (Green/Orange/Red) to indicate how close your guess is to the correct answer.
 
@@ -22,3 +22,9 @@ Clone the repository.
 Open the project in IntelliJ IDEA.
 
 Run the Main.java file to launch the application.
+
+## Options
+
+You are able to add your own characters through a user friendly interface in the admin panel.
+
+Admin password is "1234"
